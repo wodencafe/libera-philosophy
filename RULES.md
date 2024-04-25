@@ -1,3 +1,4 @@
+
 ## About ##philosophy on libera.chat
 
 **Channel Scope:**
@@ -5,6 +6,8 @@ The bread-and-butter of ##philosophy is the [traditional academic discipline](ht
 
  - [Metaphysics](https://en.wikipedia.org/wiki/Metaphysics)
 	 - The branch of philosophy that deals with the first principles of things, including abstract concepts such as being, knowing, substance, cause, identity, time, and space.
+ - [Aesthetics](https://en.wikipedia.org/wiki/Aesthetics)
+	 - The theory or philosophy of beauty, closely associated with the [value of art](https://iep.utm.edu/value-of-art/).
  - [Epistemology](https://en.wikipedia.org/wiki/Epistemology)
 	 - The theory of knowledge, especially with regard to its methods, validity, and scope.
 	 - The investigation of what distinguishes justified belief from opinion.
