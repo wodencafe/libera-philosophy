@@ -1,7 +1,19 @@
-About ##philosophy on libera.chat
+## About ##philosophy on libera.chat
 
 **Channel Scope:**
-The bread-and-butter of ##philosophy is the traditional academic discipline (for example: metaphysics, epistemology, axiology, logic). These topics are always welcome. However, we realize many users aren't very familiar with formal philosophy and we don't want to exclude them. So conversations on a wide variety of adjacent topics are acceptable, for example: literature, history, and social sciences. ##philosophy approaches these in the spirit of philosophy -- that is, a good-faith exploration of ideas, as opposed to technical minutiae or polemics.
+The bread-and-butter of ##philosophy is the [traditional academic discipline](https://en.wikipedia.org/wiki/Outline_of_philosophy):
+
+ - [Metaphysics](https://en.wikipedia.org/wiki/Metaphysics)
+	 - The branch of philosophy that deals with the first principles of things, including abstract concepts such as being, knowing, substance, cause, identity, time, and space.
+ - [Epistemology](https://en.wikipedia.org/wiki/Epistemology)
+	 - The theory of knowledge, especially with regard to its methods, validity, and scope.
+	 - The investigation of what distinguishes justified belief from opinion.
+ - [Axiology](https://en.wikipedia.org/wiki/Axiology)
+	 - The study of the nature of value and valuation, and of the kinds of things that are valuable.
+ - [Logic](https://en.wikipedia.org/wiki/Philosophy_of_logic)
+	 - The study of correct reasoning. It includes both [formal](https://en.wikipedia.org/wiki/Logic#Formal_logic) and [informal](https://en.wikipedia.org/wiki/Logic#Informal_logic) logic.
+
+*These* topics are always welcome. However, we realize many users aren't very familiar with formal philosophy and we don't want to exclude them. So conversations on a wide variety of adjacent topics are acceptable, for example: literature, history, and social sciences. ##philosophy approaches these in the spirit of philosophy -- that is, a good-faith exploration of ideas, as opposed to technical minutiae or polemics.
 
 **Ground Rules:**
 In keeping with the spirit of philosophy, we ask that you refrain from bad-faith interactions with other users. Examples of such interactions include: name-calling, strawman arguments, and bullying tactics.
