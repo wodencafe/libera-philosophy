@@ -61,8 +61,8 @@ For anything not covered here, please comply with the libera.chat Terms of Servi
 
 If you need assistance, please join ##philosophy-ops to speak to one of our moderators. You can also message them directly:
 
-quodlibet (owner)
-wodencafe
-blueagain
-tinwhiskers
+quodlibet (owner)<br>
+wodencafe<br>
+blueagain<br>
+tinwhiskers<br>
 arryana
